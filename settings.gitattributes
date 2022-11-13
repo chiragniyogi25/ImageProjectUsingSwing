@@ -1,1 +1,7 @@
+nbproject/* linguist-documentation=false
+nbproject/* linguist-vendored
+
+src/com/jdbc/image/* linguist-documentation=false
+src/com/jdbc/image/* linguist-vendored
+
 
